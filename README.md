@@ -1,7 +1,7 @@
 # Dimensionality-Reduction-and-kernel-trick
-PCA-maximizes variance of dataset without considering class label or ouput
+PCA-maximizes variance of dataset without considering class label or ouput(UNSUPERVISED METHOD)
 
-LDA-maximizes class separation
+LDA-maximizes class separation(SUPERVISED METHOD)
 
 Kernel PCA uses kernel trick to project non-linear data 
 
